@@ -1,0 +1,10 @@
+---                                                                                            
+- name: Configure Hypervisor                                                             
+   hosts: localhost                                                                             
+   gather_facts: True                                                                           
+   become: yes 
+   roles:                                                                                       
+     - ansible-install-kvm
+     - ansible-install-docker
+     - ansible-install-pip
+     - ansible-deploy-jenkins
