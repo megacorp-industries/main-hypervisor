@@ -1,0 +1,8 @@
+# ansible-galaxy install -r requirements.yml
+- src: https://github.com/megacorp-industries/ansible-role-install-kvm
+
+- src: https://github.com/megacorp-industries/ansible-role-install-docker
+
+- src: https://github.com/megacorp-industries/ansible-role-install-pip
+
+- src: https://github.com/megacorp-industries/ansible-role-deploy-jenkins
