@@ -4,6 +4,7 @@
   gather_facts: true
   become: yes
   roles: 
+    - ansible-role-generic-setup
     - ansible-role-install-kvm
     - ansible-role-install-docker
     - ansible-role-install-pip
