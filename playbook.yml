@@ -8,4 +8,4 @@
     - ansible-role-install-kvm
     - ansible-role-install-docker
     - ansible-role-install-pip
-    - ansible-role-deploy-jenkins
+    - ansible-role-deploy-jenkins-master
