@@ -8,3 +8,5 @@
 - src: https://github.com/megacorp-industries/ansible-role-install-pip
 
 - src: https://github.com/megacorp-industries/ansible-role-deploy-jenkins-master
+
+- src: https://github.com/megacorp-industries/ansible-role-deploy-jenkins-slave
