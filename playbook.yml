@@ -9,3 +9,4 @@
     - ansible-role-install-docker
     - ansible-role-install-pip
     - ansible-role-deploy-jenkins-master
+    - ansible-role-deploy-jenkins-slave
